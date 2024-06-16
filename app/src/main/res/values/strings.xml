@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DodgeBird</string>
+    <string name="game_name">DodgeBird</string>
+    <string name="play">Play</string>
+    <string name="restart">Restart</string>
+    <string name="score">Score:</string>
+    <string name="highest_score">Highest Score:</string>
+
+</resources>
